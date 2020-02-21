@@ -1,4 +1,10 @@
-# Scheme-Assembly-Compiler
+# Scheme->Assembly Compiler
+
+```
+Ben Gurion university
+Compiler Principles
+Semester A, 2018-2019
+```
 
 ## Compiler for Scheme language: 
 
